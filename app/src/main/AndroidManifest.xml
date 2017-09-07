@@ -16,7 +16,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".stateMode.TestModeStateActivity" />
-        <activity android:name=".stateMode.LoginActivity"></activity>
+        <activity android:name=".stateMode.LoginActivity" />
+        <activity android:name=".abstractFactory.TestabsFactoryActivity" />
+        <activity android:name=".builder.TestBuilderActivity"></activity>
     </application>
 
 </manifest>
